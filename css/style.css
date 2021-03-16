@@ -703,6 +703,7 @@ input:hover {
 /* Service part css goes here */
 .service_section {
     overflow: hidden;
+    padding-bottom: 45px;
 }
 .service_section .section_title {
     padding-bottom: 64px;
